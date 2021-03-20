@@ -1,0 +1,10 @@
+C:\Users\renar\Desktop\CAI\Segundo ejercicio\CAI_877071_SegundoEjercicio\SegundoEjercicio\SegundoEjercicio.Consola\bin\Debug\SegundoEjercicio.Consola.exe.config
+C:\Users\renar\Desktop\CAI\Segundo ejercicio\CAI_877071_SegundoEjercicio\SegundoEjercicio\SegundoEjercicio.Consola\bin\Debug\SegundoEjercicio.Consola.exe
+C:\Users\renar\Desktop\CAI\Segundo ejercicio\CAI_877071_SegundoEjercicio\SegundoEjercicio\SegundoEjercicio.Consola\bin\Debug\SegundoEjercicio.Consola.pdb
+C:\Users\renar\Desktop\CAI\Segundo ejercicio\CAI_877071_SegundoEjercicio\SegundoEjercicio\SegundoEjercicio.Consola\bin\Debug\LibreriaClase.dll
+C:\Users\renar\Desktop\CAI\Segundo ejercicio\CAI_877071_SegundoEjercicio\SegundoEjercicio\SegundoEjercicio.Consola\bin\Debug\LibreriaClase.pdb
+C:\Users\renar\Desktop\CAI\Segundo ejercicio\CAI_877071_SegundoEjercicio\SegundoEjercicio\SegundoEjercicio.Consola\obj\Debug\SegundoEjercicio.Consola.csprojAssemblyReference.cache
+C:\Users\renar\Desktop\CAI\Segundo ejercicio\CAI_877071_SegundoEjercicio\SegundoEjercicio\SegundoEjercicio.Consola\obj\Debug\SegundoEjercicio.Consola.csproj.CoreCompileInputs.cache
+C:\Users\renar\Desktop\CAI\Segundo ejercicio\CAI_877071_SegundoEjercicio\SegundoEjercicio\SegundoEjercicio.Consola\obj\Debug\SegundoEjercicio.Consola.csproj.CopyComplete
+C:\Users\renar\Desktop\CAI\Segundo ejercicio\CAI_877071_SegundoEjercicio\SegundoEjercicio\SegundoEjercicio.Consola\obj\Debug\SegundoEjercicio.Consola.exe
+C:\Users\renar\Desktop\CAI\Segundo ejercicio\CAI_877071_SegundoEjercicio\SegundoEjercicio\SegundoEjercicio.Consola\obj\Debug\SegundoEjercicio.Consola.pdb

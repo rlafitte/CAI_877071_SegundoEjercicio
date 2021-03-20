@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SegundoEjercicio.LibreriaClase.Entidades.Veterinaria
 {
-    class Medicamento
+    public class Medicamento
     {
         private string s_nombre;
         private string s_marca;

@@ -1,0 +1,6 @@
+C:\Users\renar\Desktop\CAI\Segundo ejercicio\CAI_877071_SegundoEjercicio\SegundoEjercicio\LibreriaClase\bin\Debug\LibreriaClase.dll
+C:\Users\renar\Desktop\CAI\Segundo ejercicio\CAI_877071_SegundoEjercicio\SegundoEjercicio\LibreriaClase\bin\Debug\LibreriaClase.pdb
+C:\Users\renar\Desktop\CAI\Segundo ejercicio\CAI_877071_SegundoEjercicio\SegundoEjercicio\LibreriaClase\obj\Debug\SegundoEjercicio.LibreriaClase.csprojAssemblyReference.cache
+C:\Users\renar\Desktop\CAI\Segundo ejercicio\CAI_877071_SegundoEjercicio\SegundoEjercicio\LibreriaClase\obj\Debug\SegundoEjercicio.LibreriaClase.csproj.CoreCompileInputs.cache
+C:\Users\renar\Desktop\CAI\Segundo ejercicio\CAI_877071_SegundoEjercicio\SegundoEjercicio\LibreriaClase\obj\Debug\LibreriaClase.dll
+C:\Users\renar\Desktop\CAI\Segundo ejercicio\CAI_877071_SegundoEjercicio\SegundoEjercicio\LibreriaClase\obj\Debug\LibreriaClase.pdb
