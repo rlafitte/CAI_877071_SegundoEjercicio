@@ -6,15 +6,14 @@ using System.Threading.Tasks;
 
 namespace SegundoEjercicio.LibreriaClase.Entidades.Veterinaria
 {
-    public class Animal
+    public class Cliente
     {
-        private int i_identificacion;
         private string s_nombre;
-        private string s_raza;
+        private string s_apellido;
+        private int i_documento;
+        private string s_tipoDoc;
         private string s_sexo;
-        private int i_edad;
-        private double d_peso;
-        private string s_enfermedades;
-        Cliente[] cliente;
+        private string s_telefono;
+        private string s_domicilio;
     }
 }
