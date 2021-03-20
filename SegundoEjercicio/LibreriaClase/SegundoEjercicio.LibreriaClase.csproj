@@ -44,6 +44,8 @@
     <Compile Include="Entidades\Veterinaria\Alimento.cs" />
     <Compile Include="Entidades\Veterinaria\Animal.cs" />
     <Compile Include="Class1.cs" />
+    <Compile Include="Entidades\Veterinaria\Medicamento.cs" />
+    <Compile Include="Entidades\Veterinaria\Tratamiento.cs" />
     <Compile Include="Entidades\Veterinaria\Cliente.cs" />
     <Compile Include="Entidades\Veterinaria\Veterinario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
