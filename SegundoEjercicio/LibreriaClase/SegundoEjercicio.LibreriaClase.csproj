@@ -45,6 +45,7 @@
     <Compile Include="Entidades\Veterinaria\Animal.cs" />
     <Compile Include="Entidades\Veterinaria\Gato.cs" />
     <Compile Include="Entidades\Veterinaria\Medicamento.cs" />
+    <Compile Include="Entidades\Veterinaria\Persona.cs" />
     <Compile Include="Entidades\Veterinaria\Tratamiento.cs" />
     <Compile Include="Entidades\Veterinaria\Cliente.cs" />
     <Compile Include="Entidades\Veterinaria\Veterinario.cs" />

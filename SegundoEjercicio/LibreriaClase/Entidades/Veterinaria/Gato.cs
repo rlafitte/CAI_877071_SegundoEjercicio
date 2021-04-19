@@ -15,8 +15,7 @@ namespace LibreriaClase.Entidades.Veterinaria
         {
             this._nocturno = nocturno;
         }
-        public bool Nocturno { get => _nocturno; set => _nocturno = value; 
-        }
+        public bool Nocturno { get => _nocturno; set => _nocturno = value; }
     }
     
 }
