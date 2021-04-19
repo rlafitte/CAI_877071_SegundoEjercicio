@@ -9,10 +9,15 @@ namespace LibreriaClase.Entidades.Veterinaria
 {
     public class Gato : Animal
     {
+        protected bool _nocturno;
 
-        public Gato() :base()
+        public Gato(bool nocturno) : base()
         {
-
+            this._nocturno = nocturno;
+        }
+        public bool Nocturno { get => _nocturno; set => _nocturno = value; 
         }
     }
+    
 }
+
